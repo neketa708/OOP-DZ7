@@ -1,4 +1,4 @@
-package org.example.model;
+package org.example.attestation;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

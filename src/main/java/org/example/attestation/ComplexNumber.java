@@ -1,4 +1,4 @@
-package org.example.model;
+package org.example.attestation;
 
 public class ComplexNumber {
     private double real;
